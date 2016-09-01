@@ -1,6 +1,6 @@
 # Rvca05
 
-Implementation of VCA Algorithm (unmix hyperspectral data)
+Implementation of VCA Algorithm (unmix hyperspectral data) in R
 
 Nascimento, José MP, and José MB Dias. "Vertex component analysis: A fast algorithm to unmix hyperspectral data." IEEE transactions on Geoscience and Remote Sensing 43.4 (2005): 898-910.
 
